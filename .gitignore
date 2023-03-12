@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyi
+*.pt
+*.so
+.vscode/
+*.egg-info
